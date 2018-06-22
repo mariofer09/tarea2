@@ -28,8 +28,15 @@ p{
   background-color: #FFFFCC;
 }
 
+* especial em {
+  color: #FFFF00;
+  background: #000000;
+}
 
 
+.normal span{
+  font-weight: bold;
+}
 
 /*
 To change this license header, choose License Headers in Project Properties.
